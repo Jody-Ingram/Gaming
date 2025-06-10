@@ -6,4 +6,4 @@ from CBA-Modules import *
 from CBA-Chat import *
 from GPT4 import *
 from Discord import *
-from DiscordInitiator import *
+from Discord.DiscordInitiator import *
